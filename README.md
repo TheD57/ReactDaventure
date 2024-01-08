@@ -18,12 +18,11 @@ Hi there! I'm Dave, and this is my journey of diving deep into the React framewo
 
 - **Simple Yet Powerful**: DaveAct mirrors the core features of React, but with a personal touch.
 - **Documented Journey**: Every step of my learning journey is documented here.
-- **Community-Driven**: Suggestions and contributions are welcome!
-
+  
 ## How to Get Started 🚀
 
-1. **Clone the Repository**: `git clone https://github.com/YourUsername/DaveAct.git`
-2. **Navigate to the Directory**: `cd DaveAct`
+1. **Clone the Repository**: `git clone https://github.com/TheD57/ReactDaventure`
+2. **Navigate to the Directory**: `cd ReactDaventure`
 3. **Install Dependencies**: `npm install`
 4. **Run the Project**: `npm start`
 
@@ -36,10 +35,6 @@ Hi there! I'm Dave, and this is my journey of diving deep into the React framewo
 ## Contributing 🤝
 
 Interested in contributing to DaveAct? That's awesome! Check out our [Contribution Guidelines](./CONTRIBUTING.md) for more information.
-
-## License 📄
-
-DaveAct is [MIT licensed](./LICENSE).
 
 ## Connect with Me 🌐
 
